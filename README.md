@@ -2,12 +2,15 @@
 Team Number: 28
 Team Members
 1. Bhuvan Thirwani - 50565974
+
 Problem Statement 1: How does driving experience, road surface conditions, educational level affect the severity of accidents?
+
 Problem Statement 2: Analyzing how the fatality is related with various factors such
 as light conditions, weather conditions, type of collision & day of the week in traffic
 accidents. Finding patterns and correlations which can suggest road safety strategies.
 
 location(Code) : 50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani.ipynb
+
 Report: 50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani_Report.pdf
 
 3. Harshit Malpani - 50608809
