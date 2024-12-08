@@ -8,25 +8,25 @@ Team Members
 
 - Problem Statement 1: How does driving experience, road surface conditions, educational level affect the severity of accidents?
 - Problem Statement 2: Analyzing how the fatality is related with various factors such as light conditions, weather conditions, type of collision & day of the week in traffic accidents. Finding patterns and correlations which can suggest road safety strategies.
-- location(Code) : 50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani.ipynb
-- Report: 50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani_Report.pdf
+- location(Code) : [50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani.ipynb](https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani.ipynb)
+- Report: [50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani_Report.pdf](https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/50565974_phase2/DIC_Project_Phase_2_Bhuvan_Thirwani_Report.pdf)
 
 2. Harshit Malpani - 50608809
   - Question 1: Not all vehicles are involved in road accidents equally. Some vehicles have a higher tendency to be involved in any road accident
-    - Location: https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/main/DIC_Project_Harshit_Malpani_50608809.ipynb under Phase 2
+    - Location: https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/main/exp/DIC_Project_Harshit_Malpani_50608809.ipynb under Phase 2
   - Question 2: Does the service period of the vehicle and ownership of the vehicle have any correlation with the accidents
-    - Location: https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/main/DIC_Project_Harshit_Malpani_50608809.ipynb under Phase 2
-  PDF: https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/main/DIC_Project_Phase_2_Harshit_Malpani_50608809.pdf
+    - Location: https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/main/exp/DIC_Project_Harshit_Malpani_50608809.ipynb under Phase 2
+  PDF: https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/DIC_Project_Harshit_Malpani_50608809.pdf
 
    
 3. Piyush Gulhane  - 50608504
   Question 1 : What is the Impact of area, type of road cross-section, type of roads and road alignment on different types of Accidents.
   
-  location(Code + Analysis) : 50608504/ph2/DIC_Project_Phase_2_prob1_50608504.ipynb  & 50608504/ph2/DIC_Project_Phase_2_prob1_50608504.pdf
+  location(Code + Analysis) : [50608504/ph2/DIC_Project_Phase_2_prob1_50608504.ipynb](https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/50608504/ph2/DIC_Project_Phase_2_prob1_50608504.ipynb)  & [50608504/ph2/DIC_Project_Phase_2_prob1_50608504.pdf](https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/50608504/ph2/DIC_Project_Phase_2_prob1_50608504.pdf)
   
   Question 2 : What is the impact of Environmental factors, Light(visibility) impact, Road surface, time of the day, etc.
   
-  location(Code + Analysis) : 50608504/ph2/DIC_Project_Phase_2_prob2_50608504.ipynb  & 50608504/ph2/DIC_Project_Phase_2_prob2_50608504.pdf
+  location(Code + Analysis) : [50608504/ph2/DIC_Project_Phase_2_prob2_50608504.ipynb](https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/50608504/ph2/DIC_Project_Phase_2_prob2_50608504.ipynb)  & [50608504/ph2/DIC_Project_Phase_2_prob2_50608504.pdf](https://github.com/bhuvanUB/DIC-Project-Team-28-Fall-24/blob/3610266cc88730cca66b03b6e8705b70b15f74bf/50608504/ph2/DIC_Project_Phase_2_prob2_50608504.pdf)
 
 
 ## App Development
@@ -47,7 +47,7 @@ Team Members
 <p>First, download the <code>ml_models.zip</code> file from the following URL:</p>
 <p><a href="https://drive.google.com/file/d/10cMzD10C5Z5I2Zi-fZYxg8TdpM4yQV5r/view?usp=sharing" target="_blank">Download ml_models.zip</a></p>
 <p><strong>Make sure to create a folder called <code>ml_models</code> in your project directory.</strong></p>
-<img src="road_accident_severity_app/images/ml_models.png" alt="Step 1: Download and extract ml_models.zip">
+<img src="app/road_accident_severity_app/images/ml_models.png" alt="Step 1: Download and extract ml_models.zip">
 
 <h3>2. Install Dependencies</h3>
 <p>After setting up the <code>ml_models</code> folder, open your terminal/command prompt and follow these steps:</p>
